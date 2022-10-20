@@ -398,6 +398,7 @@ color: #FFFFFF;
     font-size: 16px;
     line-height: 22px;
     color: #FFFFFF;
+    transition: 0.5s;
 }
 .about2 li{
     color: #FFFFFF;
@@ -409,6 +410,7 @@ color: #FFFFFF;
     font-size: 16px;
     line-height: 22px;
     color: #FFFFFF;
+    transition: 0.5s;
 }
 
 .contactss img{
@@ -419,4 +421,11 @@ color: #FFFFFF;
     left: 1059px;
     color: #DFE4F0;
 
+}
+.about li:hover{
+    color: #0031b8;
+
+}
+.about2 li:hover{
+    color: #0031b8;
 }
