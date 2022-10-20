@@ -340,6 +340,7 @@ color: white;
     border: #2F65F8;
     border-radius: 3.125px;
     box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.15925);
+    transition: 0.5s;
 }
 
 .minilogo img{
@@ -428,4 +429,8 @@ color: #FFFFFF;
 }
 .about2 li:hover{
     color: #c8a2c8;
+}
+
+.email:hover{
+    color: #0031b8;
 }
